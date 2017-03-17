@@ -62,7 +62,7 @@
     layer.bindPopup(feature.properties.Title);
   }
    });
-   var runLayer = omnivore.csv('data.csv', null, customLayer)
+   var runLayer = omnivore.csv('Hartford Government Buildings.csv', null, customLayer)
    .on('ready', function() {
     map.fitBounds(runLayer.getBounds());
   }).addTo(map);
