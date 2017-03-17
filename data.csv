@@ -1,12 +1,8 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
 East Hartford Building Inspections ,"740 Main St, East Hartford, CT 06108",41.76664,-72.64539,"740 MAIN ST, EAST HARTFORD, CT, 06108",,US Census 
-Hartford Licenses and Inspections ,"260 Constitution Plaza, Hartford, CT 06103",,,,Exact ,
 Legislative Office Building ," 300 Capitol Ave #5100, Hartford, CT 06106",41.763428,-72.68542," 300 Capitol Ave #5100, Hartford, CT 06106",Exact ,US Census 
 Hartford City Assessor/ Hartford City Hall ,"550 Main St #1, Hartford, CT 06103",41.762817,-72.674286,"550 MAIN ST, HARTFORD, CT, 06103",Exact ,US Census 
-Hartford City Treasurer,"260 Constitution Plaza, Hartford, CT 06103",,,,Exact ,US Census 
-Hartford City Planning ,"250 Constitution Plz # 4, Hartford, CT 06103",,,,Exact ,US Census 
 State Building Inspector ,"1111 Country Club Rd, Middletown, CT 06457",41.568535,-72.728714,"1111 COUNTRY CLUB RD, MIDDLETOWN, CT, 06457",Exact ,US Census 
 Hartford City Human Resources ,"550 Main St #300, Hartford, CT 06103",41.762817,-72.674286,"550 MAIN ST, HARTFORD, CT, 06103",Exact ,US Census 
 Hartford Health & Human Services ,"131 Coventry St, Hartford, CT 06112",41.80133,-72.69024,"131 COVENTRY ST, HARTFORD, CT, 06112",Exact ,US Census 
 Hartford Public Works Department ,"50 Jennings Rd, Hartford, CT 06120",41.787273,-72.656876,"50 JENNINGS RD, HARTFORD, CT, 06120",Exact ,US Census 
-,,,,,Exact ,US Census 
